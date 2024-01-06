@@ -9,6 +9,6 @@ User case 2: Station master should be able to input AND edit what train is comin
 
 Frontend: ReactJS
 
-Backend: Spring Boot
+Backend: Java Spring Boot
 
 Database: MySQL
