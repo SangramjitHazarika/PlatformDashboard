@@ -12,3 +12,5 @@ Frontend: ReactJS
 Backend: Java Spring Boot
 
 Database: MySQL
+
+The first folder is the backend and the second folder is the frontend part.
