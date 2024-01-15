@@ -1,4 +1,4 @@
-Railway Platform Dashboard
+TrackMaster - Railway Platform Dashboard
  
 User personas: Passenger, Station Master
  
